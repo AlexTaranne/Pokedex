@@ -8,6 +8,7 @@ const pokemonList = [
   },
   {
     name: "mew",
+    imgSrc: "",
   },
 ];
 function App() {
