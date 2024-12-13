@@ -46,7 +46,7 @@ function App() {
           Précédent
         </button>
       ) : (
-        " "
+        "il y a bien un précédent"
       )}
 
       {pokemonIndex < pokemonList.length - 1 ? (
@@ -54,7 +54,7 @@ function App() {
           Suivant
         </button>
       ) : (
-        " "
+        "Il ya bien un suivant"
       )}
     </main>
   );
